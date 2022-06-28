@@ -10,3 +10,5 @@
  3 Detecção de Objetos com Python e OpenCV
   - Detectar uma caneca com diferentes classificadores
  
+ 4 Reconhecimento de Faces e de Objetos com Python e Dlib
+  - Comparar diferentes classificadores para reconhercer pessoas e objetos como: cnn, hog e yale
