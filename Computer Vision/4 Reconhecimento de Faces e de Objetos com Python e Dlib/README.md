@@ -5,4 +5,4 @@ Exercício 2
   - Detectar os pontos no rosto de uma pessoa especifica  
  
 Exercício 3
-   - Predictor de face
+   - Preditor de face
