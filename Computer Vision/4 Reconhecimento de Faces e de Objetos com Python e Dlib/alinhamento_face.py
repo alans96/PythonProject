@@ -3,7 +3,6 @@ Detecção de uma imagem usando o mmod_human_face_detector.dat
 """
 import  dlib
 import cv2
-import numpy
 
 def ImprimePontos(imagem, pontosfaciais):
     for p in pontosfaciais.parts():
