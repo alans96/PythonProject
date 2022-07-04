@@ -1,8 +1,17 @@
 # Machine Learning
  
- 1 Curso de Machine Learning
-  - Como tratar dados de imagens e vídeos .
+ 1 Rede Binária
+  - Saida simples (apenas um valor).
  
- 2 PROCESSAMENTO_DIGITAL_DE_SINAIS
-  - Aplicação de Convolução de sinais digitais 
+ 2 Rede Multiclaclasse
+  - Saida múltipla (mais de um valor)  
+ 
+ 3 Regressão
+  - um neurônio que dará a saída, que é um valor variável dentro desse grande range de valores possíveis (predição).
+ 
+ 4 Rede Convolucionais
+  - São totalmente conectadas (densas) 
   -
+ 5 Recorrente
+  - Conexões ponderadas dentro de uma camada (retroalimentação, predição).
+ 
