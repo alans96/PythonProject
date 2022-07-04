@@ -11,7 +11,7 @@
  
  4 Rede Convolucionais
   - São totalmente conectadas (densas) 
-  -
+
  5 Recorrente
   - Conexões ponderadas dentro de uma camada (retroalimentação, predição).
  
