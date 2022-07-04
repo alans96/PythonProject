@@ -11,19 +11,19 @@ Exercício 4
   - Uso de um rastreador simples cascade_fullbody com a webcam
 
 Exercício 5
-  - Seleciona o objeto que deseja rastrear (ROI) com a WebCam
+  - Meanshift Tracking pela camera 
 
 Exercício 6
-  - Gerar o treinamento dos classificadores para reconhecer uma pessoa especifica
+  - Uso de Camshift Tracking e DST
 
 Exercício 7
-  - Reconhecer rosto pela webcam e tirar fotos
+  - O proprio algoritmo identifica e mostra a direção do objeto
 
 Exercício 8
-  - Gerar o treinamento dos classificadores para reconhecer uma pessoa especifica
+  - Uso da WebCam e ver a movimentação
 
 Exercício 9
-  - Reconhecer rosto pela webcam e tirar fotos
+  - Uso da Dense Optical Flow
 
 Exercício 
   - Gerar o treinamento dos classificadores para reconhecer uma pessoa especifica
